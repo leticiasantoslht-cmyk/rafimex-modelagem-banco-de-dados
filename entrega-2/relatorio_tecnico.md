@@ -3,13 +3,13 @@
 > Modelagem e Implementação de Banco de Dados para a Gestão de Vendas, Crédito e Estoque da Rafimex
 Entrega 2 — Modelo Lógico, Implementação SQL e Apresentação Final. Banco de dados da Rafimex Comercial Importação e Exportação Ltda (Rafimex Mesa Posta e Decorações), atacadista B2B de artigos de mesa posta e decoração.
 
-| NOME | RGM |
-|---|---|
-| **Anderson Rafael da Silva** | **49031937** |
-| **Leticia Souza Santos** | **49439286** |
-| **Maria Eduarda Sobrinho dos Santos** | **49020595** |
-| **Nathan Vieira De Lara** | **49462725** |
-| **Ketlyn Nayara da Silva Cezar** | **48862347** |
+| Integrantes |
+|---|
+| **Anderson Rafael da Silva** |
+| **Leticia Souza Santos** |
+| **Maria Eduarda Sobrinho dos Santos** |
+| **Nathan Vieira De Lara** |
+| **Ketlyn Nayara da Silva Cezar** |
 
 ## Artefatos do repositório
 
@@ -53,12 +53,12 @@ Entrega 2 — Modelo Lógico, Implementação SQL e Apresentação Final. Banco 
   - Endereço: R. Barra do Tibagi, 537 — Bom Retiro, São Paulo/SP, CEP 01128-000.
   - Google Maps: [Rafimex no Google Maps](https://maps.app.goo.gl/PDXnt86jRLMjDYKF8)
    - Fotos (no repositório): [fachada](https://github.com/anderzcn/entrega-1-der-modelo-conceitual/blob/main/entrega-1/IMAGEM_FACHADA_RAFIMEX.jpeg) e [visita técnica](github.com/anderzcn/entrega-1-der-modelo-conceitual/blob/main/entrega-1/IMAGEM_VISITACAO_RAFIMEX.jpeg).
-- **Responsável pela organização:** Gabriel Gedanken, diretor comercial. Telefone: (11) 99471-1531.
+- **Responsável pela organização:** diretor comercial da Rafimex.
 
 - 
 #### Relato da entrevista
 
-- **Quem:** Gabriel Gedanken, diretor comercial da Rafimex. Participantes do grupo: LETICIA SOUZA SANTOS.
+- **Quem:** diretor comercial da Rafimex. Participantes do grupo: LETICIA SOUZA SANTOS.
 - **Quando e onde:** 10/09/2026, na sede da Rafimex (R. Barra do Tibagi, 537 — Bom Retiro, São Paulo/SP).
 - **Comprovação:** [foto da visita técnica](https://github.com/anderzcn/entrega-1-der-modelo-conceitual/blob/main/entrega-1/IMAGEM_VISITACAO_RAFIMEX.jpeg), com uma integrante e o entrevistado dentro da loja.
 - **Achados pela observação no local:** 
