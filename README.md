@@ -3,13 +3,13 @@
 > Desenvolvimento de um sistema de gestão de vendas, crédito e estoque para a **Rafimex — Mesa Posta e Decorações**, contemplando a modelagem conceitual e lógica, a implementação SQL e a apresentação final.
 ## Metadados
 
-| NOME | RGM |
-|---|---|
-| **Anderson Rafael da Silva** | **49031937** |
-| **Leticia Souza Santos** | **49439286** |
-| **Maria Eduarda Sobrinho dos Santos** | **49020595** |
-| **Nathan Vieira De Lara** | **49462725** |
-| **Ketlyn Nayara da Silva Cezar** | **48862347** |
+| Integrantes |
+|---|
+| **Anderson Rafael da Silva** |
+| **Leticia Souza Santos** |
+| **Maria Eduarda Sobrinho dos Santos** |
+| **Nathan Vieira De Lara** |
+| **Ketlyn Nayara da Silva Cezar** |
 ## Introdução
 
 Este projeto tem como objetivo desenvolver o Modelo Conceitual de Banco de Dados para a Rafimex - Mesa Posta e Decorações, uma empresa atacadista que vende artigos de mesa posta e decoração para outras empresas (B2B).
@@ -42,7 +42,7 @@ Disponibilizar links automáticos de validação por WhatsApp ou e-mail, permiti
  - **Justificativa da escolha:** Escolhemos a Rafimex por ser uma empresa real, de porte médio-grande, com volume de dados suficiente para justificar uma modelagem robusta, mas ainda viável de mapear no prazo da disciplina. Além disso, uma das integrantes do grupo, Letícia, trabalha na Rafimex e tem acesso direto ao dia a dia da empresa, o que ajudou a entender os problemas reais descritos aqui.
  - **Evidências da organização:** 
   - *Localização:* [Visualizar Rafimex no Google Maps](https://maps.app.goo.gl/PDXnt86jRLMjDYKF8)
-  - *Endereço e Contato:* [R. Barra do Tibagi, 537 - Bom Retiro, São Paulo - SP, 01128-000 | Tel: (11) 99471-1531- Gabriel Gedanken- DIRETOR COMERCIAL]
+  - *Endereço:* [R. Barra do Tibagi, 537 - Bom Retiro, São Paulo - SP, 01128-000]
 - **Registro visual:**
     - [Visualiza Foto da Visitação](entrega-1/IMAGEM_VISITACAO_RAFIMEX.jpeg)
     - [Visualiza Foto da Fachada](entrega-1/IMAGEM_FACHADA_RAFIMEX.jpeg)
